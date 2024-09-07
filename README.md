@@ -24,6 +24,10 @@ The environmental impact of skydive dirt biking is a topic of consideration, as 
 [Aerospace Simulator](https://github.com/sourceduty/Aerospace_Simulator)
 <br>
 [Motorcycles](https://github.com/sourceduty/Motorcycles)
+<br>
+[Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Car Design](https://github.com/sourceduty/Car_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
